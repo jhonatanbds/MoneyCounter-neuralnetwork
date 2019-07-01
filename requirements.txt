@@ -1,0 +1,8 @@
+tensorflow==1.13.1
+Flask==1.0.3
+pillow
+gevent
+requests
+opencv-python
+keras
+matplotlib
